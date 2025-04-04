@@ -1,0 +1,30 @@
+Digital Energy Cell (DEC) – Custom License v1.0  
+Copyright © 2025 Andrew. All rights reserved.
+
+This repository, including all designs, schematics, code, documentation, and associated files (“the Work”), is the intellectual property of Andrew and is licensed under the following terms:
+
+1. **No Commercial Use**  
+   The Work may not be used, in whole or in part, for commercial purposes without express written permission from the author.
+
+2. **No Redistribution**  
+   You may not publish, distribute, sublicense, mirror, or host this Work or derivatives of it without permission.
+
+3. **No Modification Without Consent**  
+   Modification, reverse engineering, or derivative works are strictly prohibited unless authorized in writing by the author.
+
+4. **Attribution Required**  
+   Any approved use must clearly credit Andrew as the original creator and link back to the original DEC repository.
+
+5. **No Patent Filings**  
+   You may not file for patents or other IP protections on any part of this Work or derivative creations without written agreement.
+
+6. **Collaboration Requests Welcome**  
+   For research, collaboration, or licensing inquiries, contact the author directly.
+
+---
+
+This license supersedes all standard open-source licenses.  
+Violation of these terms may result in legal action.
+
+Contact: the.director@dialectrics.com
+GitHub Repo: https://github.com/aegersz/DEC-Core
