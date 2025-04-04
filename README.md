@@ -30,6 +30,23 @@ The **Digital Energy Cell (DEC)** is a solid-state energy storage system enginee
 
 ## Repository Structure
 
+DEC-Core/
+├── README.md
+├── LICENSE
+├── /docs
+│   ├── DEC_Whitepaper.pdf
+│   ├── SmartCharger_Schematic.png
+│   └── SafetyProtocol.txt
+├── /design
+│   ├── charger_circuit.kicad
+│   └── cell_layering_diagram.svg
+├── /prototypes
+│   ├── oil_variants_tests.csv
+│   └── materials_recipe_list.txt
+├── /code
+│   └── firmware_control_logic.py
+└── /media
+    └── DEC_ConceptRender.png
 ---
 
 ## How to Use
