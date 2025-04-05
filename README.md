@@ -75,6 +75,7 @@ All designs, code, and schematics are released under the **MIT License** for unr
 ## Contact
 
 Andrew in Australia
-*Founder of the Digital Energy Cell Project*  
+*Founder of the Digital Energy Cell Project* 
+
 For grants, partnerships, or prototyping collaborations:  
-**[the.director@dialectrics.com]**
+**the.director@dialectrics.com**
