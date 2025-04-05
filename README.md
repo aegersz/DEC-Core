@@ -12,7 +12,9 @@ The **Digital Energy Cell (DEC)** is a solid-state energy storage system enginee
 ## Features
 
 - **Solid-State Capacitive Storage**  
-  Uses SiO₂ and mineral/vegetable/fish oil dielectrics, avoiding volatile electrolytes.
+  Uses certain crystals, mix of lipids and geological dielectrics.
+
+It avoids the use of environmentally risky and unfriendly volatile electrolytes.
 
 - **Universal Smart Charger Compatibility**  
   Includes a smart charger profile (Model 3070) optimized for DEC, Li-ion, NiMH, and alkaline cells.
